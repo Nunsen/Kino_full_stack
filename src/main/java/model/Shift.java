@@ -6,6 +6,7 @@ import java.sql.Date;
 
 @Entity
 public class Shift {
+    //igen
 
     @Id
     @GeneratedValue (strategy = GenerationType.IDENTITY)
