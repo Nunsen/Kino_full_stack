@@ -22,6 +22,7 @@ public class Shift {
     public int getShift_id() {
         return shift_id;
     }
+    //tester git
 
     public void setShift_id(int shift_id) {
         this.shift_id = shift_id;
